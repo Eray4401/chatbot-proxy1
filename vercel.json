@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/chatbot.js": {
-      "runtime": "nodejs18"
-    }
-  }
-}
